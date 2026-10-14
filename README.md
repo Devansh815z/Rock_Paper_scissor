@@ -1,4 +1,3 @@
-# Rock_Paper_scissor
 # Rock Paper Scissors Game 🎮
 
 A simple and interactive **Rock Paper Scissors Game** built using HTML, CSS, and JavaScript. This project allows users to play against the computer by choosing rock, paper, or scissors. The computer randomly selects its move, and the game determines the winner based on the rules.
